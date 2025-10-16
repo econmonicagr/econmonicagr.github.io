@@ -17,7 +17,7 @@ Policy and Working Paper:
 ===
 * ["Digital Transformation in the Gulf Cooperation Council Economies."](https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2025/04/01/Digital-Transformation-in-the-Gulf-Cooperation-Council-Economies-557187), 2025, IMF Departmental Paper *(with R. Bi, F. Fareed, J.D. Lee, S. Rehman, T. Yuan)*
 
-* ["Analytical Chapter 2: Reversing the Trend: Enhancing Medium-Term Growth Prospects."](https://www.imf.org/-/media/Files/Publications/REO/MCD-CCA/2024/October/English/Chapter2.ashx), 2024, IMF Departmental Paper *(with R. Bi, F. Fareed, J.D. Lee, S. Rehman, T. Yuan)*
+* ["Analytical Chapter 2: Reversing the Trend: Enhancing Medium-Term Growth Prospects."](https://www.imf.org/-/media/Files/Publications/REO/MCD-CCA/2024/October/English/Chapter2.ashx), 2024, IMF Departmental Paper *(with team of IMF)*
   
 * ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Regional Economic Outlook of Middle East and Central Asia *(with team of IMF)*
 
