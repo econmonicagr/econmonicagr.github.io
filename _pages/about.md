@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am an economist at the International Monetary Fund. I received my Ph.D. in Economics at the University of Washington in 2021. 
+I am an economist at the International Monetary Fund. I received my Ph.D. in Economics at the University of Washington. 
 
 I am an applied macroeconomist with a [research portfolio](https://econmonicagr.github.io/research/) comprised of papers in international macroeconomics, macro-finance, and applied time series analysis. And my passion is to develop theory-based policy implications through empirical work. 
 
