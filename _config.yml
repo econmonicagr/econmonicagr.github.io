@@ -273,6 +273,8 @@ whitelist:
 #  - jekyll-feed
 #  - jemoji
 
+# Footer
+show_default_footer: false
 
 # Archives
 #  Type
