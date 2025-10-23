@@ -12,7 +12,7 @@ About Me
 ======
 I am an economist at the International Monetary Fund. I received my Ph.D. in Economics at the University of Washington. 
 
-I am an applied macroeconomist with a [research portfolio](https://econmonicagr.github.io/research/) comprised of papers in international macroeconomics, macro-finance, and applied time series analysis. And my passion is to develop theory-based policy implications through empirical work. 
+As a lifelong learner, I prioritize what I can learn over what I can earn. My work as an applied macroeconomist ([research portfolio](https://econmonicagr.github.io/research/))spans international macroeconomics, macro-finance, and applied time series analysis. My passion is to develop theory-based policy implications through empirical work. 
 
 
 CV
